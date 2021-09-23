@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	Test t;
-	t.menu();
+	t.Start();
 
 
 
